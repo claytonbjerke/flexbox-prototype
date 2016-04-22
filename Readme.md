@@ -4,5 +4,4 @@
 1. npm i
 2. npm start
 
-** NOTE: must have gulp installed globally
-- https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md
+NOTE: Must have gulp installed globally: [HOW TO](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
