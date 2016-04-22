@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+.base-container {
+    display: flex;
+    flex-direction: column;
+    border-color: blue;
+    border-style: solid;
+    border-width: thin;
+}
+
+.base-row {
+    border-color: green;
+    border-style: solid;
+    border-width: thin;
+}
