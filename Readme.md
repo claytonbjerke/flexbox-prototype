@@ -1,5 +1,7 @@
 ## flexbox-prototype
 
+[DEMO](https://git.heroku.com/flexbox-prototype.git)
+
 ### Quick Start:
 1. npm i
 2. npm start
